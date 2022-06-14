@@ -39,7 +39,7 @@ public class UsersController {
         usersService.updateUser(u);
     }
 
-    @GetMapping("/find")
+    @PostMapping("/find")
     public User findUser(@RequestBody User u) {
         return usersService.findUser(u);
     }
