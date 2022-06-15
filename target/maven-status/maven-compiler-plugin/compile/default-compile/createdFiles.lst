@@ -1,0 +1,7 @@
+com/movies/users/service/controllers/ExceptionController.class
+com/movies/users/service/repos/UsersRepo.class
+com/movies/users/service/Application.class
+com/movies/users/service/controllers/UsersController.class
+com/movies/users/service/models/User.class
+com/movies/users/service/services/UsersService.class
+com/movies/users/service/models/ErrorMessage.class

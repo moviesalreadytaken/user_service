@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.movies.users.service.ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.178 s <<< FAILURE! - in com.movies.users.service.ApplicationTests
-contextLoads  Time elapsed: 0.001 s  <<< ERROR!
-java.lang.IllegalStateException: Failed to load ApplicationContext
-Caused by: java.lang.IllegalArgumentException: Unresolvable class definition for class [com.movies.users.service.services.UsersService]
-Caused by: java.lang.UnsupportedClassVersionError: Preview features are not enabled for com/movies/users/service/services/UsersService (class file version 61.65535). Try running with '--enable-preview'
-
